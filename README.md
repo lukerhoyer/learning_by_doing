@@ -1,2 +1,1 @@
-# learning_by_doing
-Homework for BTTB developer class I took in 2016
+https://lukehoyer.wordpress.com/2016/06/14/pair-programing/
